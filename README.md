@@ -1,0 +1,2 @@
+# crudjango
+Cruddjango
